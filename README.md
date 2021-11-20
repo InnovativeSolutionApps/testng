@@ -47,3 +47,5 @@ Refer our [Contributing](.github/CONTRIBUTING.md) section for detailed set of st
 
   If your pull request involves fixing SonarQube issues then we would suggest that you please discuss this with the 
   [TestNG-dev](https://groups.google.com/forum/#!forum/testng-dev) before you spend time working on it.
+
+.
